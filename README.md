@@ -1,2 +1,3 @@
 # Task-Management-Application
-Create, Read, Update and Delete your Tasks
+Create, Read, Update and Delete your Todos
+
